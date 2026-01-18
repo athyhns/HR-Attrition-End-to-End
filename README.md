@@ -21,7 +21,7 @@ The pipeline involves **ETL** extraction, **Data Warehousing** with Star Schema,
 3.  **Actionable Plan:** Recommended targeted compensation reviews for employees in the "Red Zone" (Low Income, High Attrition).
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](dashboard_assets/HR_ANALYTICS_DASHBOARD.png) **
+[Dashboard Screenshot](dashboard_assets/HR_ANALYTICS_DASHBOARD.pdf) **
 
 ---
 *Created by Athiyah Naurah Syifa | [LinkedIn Profile Link]*
