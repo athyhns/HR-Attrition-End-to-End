@@ -13,7 +13,7 @@ The pipeline involves **ETL** extraction, **Data Warehousing** with Star Schema,
 ## 📂 Project Structure
 * `etl_pentaho/`: `.ktr` transformation files.
 * `sql_scripts/`: SQL DDL for Fact & Dimension tables.
-* `dashboard_assets/`: Screenshots and PDF export of the final dashboard.
+* `dashboard_assets/`: PDF export of the final dashboard.
 
 ## 💡 Key Insights
 1.  **High Risk Roles:** Sales Representatives & Lab Technicians show the highest attrition rates (>30%).
@@ -21,7 +21,7 @@ The pipeline involves **ETL** extraction, **Data Warehousing** with Star Schema,
 3.  **Actionable Plan:** Recommended targeted compensation reviews for employees in the "Red Zone" (Low Income, High Attrition).
 
 ## 📸 Dashboard Preview
-[Dashboard Screenshot](dashboard_assets/HR_ANALYTICS_DASHBOARD.pdf) **
+[Dashboard Image](dashboard_assets/HR_ANALYTICS_DASHBOARD.pdf) 
 
 ---
 *Created by Athiyah Naurah Syifa | [LinkedIn Profile Link]*
